@@ -1,17 +1,13 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Machine Learning Scientist at <a href='https://generatebiomedicines.com'>Generate:Biomedicines</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +18,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false 
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a machine learning scientist broadly interested in applications of machine learning to structural biology and drug discovery. I just completed my PhD in Computational and Systems Biology at MIT, working with Professor Kevin Esvelt on machine learning for protein design and funded by the Hertz Fellowship. Specifically, I worked on a method named FLIGHTED for denoising high-throughput experimental data for protein fitness modeling and used the methods I developed alongside large quantities of experimental datapoints to engineer alternate specificities of TEV protease. I will soon start as a machine learning scientist at Generate:Biomedicines.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have previously worked on a wide variety of other projects, including internship projects on diffusion models at Generate:Biomedicines and on permeability modeling with molecular dynamics at Inductive Bio. Before my PhD, I spent a year at Google Accelerated Science as an AI resident working on machine learning with DNA-encoded libraries and a year at the University of Cambridge funded by the Churchill Scholarship with Dr. Lucy Colwell working on generalization and attribution analysis of machine learning models for protein/ligand binding.
