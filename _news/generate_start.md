@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will start as a machine learning scientist at Generate:Biomedicines.
+I started as a machine learning scientist at Generate:Biomedicines.
