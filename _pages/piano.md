@@ -12,6 +12,8 @@ I am also an avid amateur classical pianist, and had the opportunity at MIT to p
 ## Solo Performances
 
 <br>
+<center><iframe width="800" height="450" src="https://www.youtube.com/embed/jxz-4AU-rVQ"></iframe></center>
+<br>
 <center><iframe width="800" height="450" src="https://www.youtube.com/embed/UANAPGrFYX8"></iframe></center>
 <br>
 <center><iframe width="800" height="450" src="https://www.youtube.com/embed/UOkrtEFMrcA"></iframe></center>
